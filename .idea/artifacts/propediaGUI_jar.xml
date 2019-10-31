@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="propediaGUI:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/propediaGUI_jar</output-path>
+    <root id="archive" name="propediaGUI.jar">
+      <element id="module-output" name="propediaGUI" />
+    </root>
+  </artifact>
+</component>
